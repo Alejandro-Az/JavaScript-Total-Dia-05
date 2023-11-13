@@ -15,7 +15,7 @@ Catalogo de peliculas:
     * The Truman Show: +13
     * The Wolf of Wall Street: +16
 
-̉* Crimen
+* Crimen
     * No hay peliculas ATP
     * El secreto de sus ojos: +13
     * The Godfather: +16
